@@ -12,7 +12,7 @@
 
 `arcTo ( x1 , y1 , x2 , y2 , r )` 实现效果图
 
-![图1](https://www.ylzzxt.cn/wp/wp-content/uploads/2017/01/QQ20170125-111418-300x91.png)
+![图1](https://www.ylzzxt.cn/wp/wp-content/uploads/2017/01/QQ20170125-111418.png)
 <pre>      var oC = document.getElementById('canvas');
       //兼容Canvas
       if(oC.getContext){
